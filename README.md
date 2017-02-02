@@ -1,3 +1,3 @@
 # LittleFighterOnline 
 
-The arenaGame
+The with Little Heroes
